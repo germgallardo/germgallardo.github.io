@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects
 
-[Project 1 Title](/sample_page)
+[Heart Disease Classification](https://github.com/germgallardo/Heart-Disease)
+This is a Kaggle Competition.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +18,7 @@
 
 ---
 
-### Category Name 2
+### Interesting Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
