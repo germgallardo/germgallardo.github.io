@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
--------
+----
 
-### Data Science Projects
+## Data Science Projects
 
 [Heart Disease Classification](https://github.com/germgallardo/Heart-Disease)
 
@@ -20,7 +20,7 @@ This is based on the [Kaggle Heart Disease Dataset](https://www.kaggle.com/datas
 
 ---
 
-### Interesting Projects
+## Interesting Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
