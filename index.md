@@ -1,4 +1,4 @@
-# **Portfolio**
+# <p style="text-align: center;">**Portfolio**</p>
 
 
 ---
@@ -7,10 +7,12 @@
 
 ---
 
-### 🫀 Heart Disease Classification  
+### 🫀 Heart Disease Classification using Python and Scikit-Learn  
 (https://github.com/germgallardo/Heart-Disease)
 
-<p style="text-align:justify;">This is based on the <a href="https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/">Kaggle Heart Disease Dataset</a> in which there are several clinical parameters and we need to predict whether or not a patient has heart disease. For this we want to try to reach for an accuracy over 95% by trying different models.</p>
+<p style="text-align:justify;">This is based on the <a href="https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/">Kaggle Heart Disease Dataset</a> in which there are several clinical parameters and we need to predict whether or not a patient has heart disease. For this we want to try to reach for an accuracy over 95% by trying different models.  
+For this we will explore the data and see if we can see any patterns.
+</p>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
