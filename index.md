@@ -18,7 +18,7 @@ An initial exploration of the data will be done to see if we can find any patter
 
 | - | - |
 | --- | --- |
-| Once we have an intuition of the dataset, we will try three different models `Logistic Regression`, `K-Nearest Neighbours Classifier` and `Random Forest Classifier` and check which one performs better. After knowing the results, we will do some hyperparameter tunning to check if the models can improve further. | <img align="right" width="100" height="100" src="/images/heart_disease_age_heartrate.png?raw=true"/> |
+| Once we have an intuition of the dataset, we will try three different models `Logistic Regression`, `K-Nearest Neighbours Classifier` and `Random Forest Classifier` and check which one performs better. After knowing the results, we will do some hyperparameter tunning to check if the models can improve further. | <img align="right" src="/images/heart_disease_age_heartrate.png?raw=true"/> |
 
 <br><br> 
 
