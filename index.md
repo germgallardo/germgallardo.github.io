@@ -1,12 +1,16 @@
-## Portfolio
+# **Portfolio**
 
-----
 
-### Data Science Projects
+---
 
-[Heart Disease Classification](https://github.com/germgallardo/Heart-Disease)
+## ***🌊 Data Science Projects***
 
-<p style="text-align:justify;">This is based on the [Kaggle Heart Disease Dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/) in which there are several clinical parameters and we need to predict whether or not a patient has heart disease. For this we want to try to reach for an accuracy over 95% by trying different models.</p>
+---
+
+### 🫀 Heart Disease Classification  
+(https://github.com/germgallardo/Heart-Disease)
+
+<p style="text-align:justify;">This is based on the <a href="https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/">Kaggle Heart Disease Dataset</a> in which there are several clinical parameters and we need to predict whether or not a patient has heart disease. For this we want to try to reach for an accuracy over 95% by trying different models.</p>
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -20,7 +24,7 @@
 
 ---
 
-### Interesting Projects
+## **✨ Interesting Projects**
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
