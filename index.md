@@ -10,10 +10,21 @@
 ### 🫀 Heart Disease Classification using Python and Scikit-Learn  
 (https://github.com/germgallardo/Heart-Disease)
 
-<p style="text-align:justify;">This is based on the <a href="https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/">Kaggle Heart Disease Dataset</a> in which there are several clinical parameters and we need to predict whether or not a patient has heart disease. For this we want to try to reach for an accuracy over 95% by trying different models.  
-For this we will explore the data and see if we can see any patterns.
-</p>
+<p style="text-align:justify;">This is based on the <a href="https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/">Kaggle Heart Disease Dataset</a> in which there are several clinical parameters and we need to predict whether or not a patient has heart disease. For this we want to try to reach for an accuracy over 95% by trying different models.<br>  
+  
+An initial exploration of the data will be done to see if we can find any patterns. Also, a correlation matrix is created to see how related each variable is to the others.</p>
 
+<img src="/images/data_exploration.png?raw=true">
+
+Once we have an intuition of the dataset, we will try three different models `Logistic Regression`, `K-Nearest Neighbours Classifier` and `Random Forest Classifier` and check which one performs better. After knowing the results, we will do some hyperparameter tunning to check if the models can improve further.
+<img align="right" width="100" height="100" src="/images/heart_disease_age_heartrate.png?raw=true"/>
+
+<br><br> 
+
+<img align="center" width="100" height="100" src="/images/heart_disease_corr_matrix.png?raw=true"/>
+
+<img align="right" width="100" height="100" src="/images/heart_disease_acc_models.png?raw=true"/>
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
