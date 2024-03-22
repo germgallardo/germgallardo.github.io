@@ -18,8 +18,8 @@ An initial exploration of the data will be done to see if we can find any patter
 
 | - | - |
 | --- | --- |
-| <p>Once we have an intuition of the dataset, we will try three different models `Logistic Regression`, `K-Nearest Neighbours Classifier` and `Random Forest Classifier` and check which one performs better. After knowing the results, we will do some hyperparameter tuning to check if the models can improve further.</p> | <img align="right" width="1000" height="400" src="/images/model_comparison2.png?raw=true"/> |
-| <p>After evaluating all the models, we select the one that performs best and obtain some cross-validated classification metrics. Finally we study the Feature Importance to see which ones contribute more to the model.</p> | <img align="right" width="1000" height="400" src="/images/model_results_2.png?raw=true"/> |
+| <p style="text-align:justify;">Once we have an intuition of the dataset, we will try three different models `Logistic Regression`, `K-Nearest Neighbours Classifier` and `Random Forest Classifier` and check which one performs better. After knowing the results, we will do some hyperparameter tuning to check if the models can improve further.</p> | <img align="right" width="1000" height="400" src="/images/model_comparison2.png?raw=true"/> |
+| <p style="text-align:justify;">After evaluating all the models, we select the one that performs best and obtain some cross-validated classification metrics. Finally we study the Feature Importance to see which ones contribute more to the model.</p> | <img align="right" width="1000" height="400" src="/images/model_results_2.png?raw=true"/> |
 <br>
 
 ---
