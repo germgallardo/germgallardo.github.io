@@ -8,7 +8,8 @@
 ---
 
 ### 🫀 Heart Disease Classification using Python and Scikit-Learn  
-(https://github.com/germgallardo/Heart-Disease)
+[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-violet?logo=jupyter)](https://github.com/germgallardo/germgallardo.github.io/blob/master/projects/end-to-end-heart-disease-classification.html)
+[![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/Heart-Disease)
 
 <p style="text-align:justify;">This is based on the <a href="https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/">Kaggle Heart Disease Dataset</a> in which there are several clinical parameters and we need to predict whether or not a patient has heart disease. For this we want to try to reach for an accuracy over 95% by trying different models.<br>  
   
