@@ -22,7 +22,7 @@ An initial exploration of the data will be done to see if we can find any patter
 <img src="/images/model_analysis.png?raw=true">
 
 <p align="center">
-  <img width="700" height="500" src="/images/model_analysis.png?raw=true">
+  <img width="300" height="250" src="/images/model_analysis.png?raw=true">
 </p>
 
 <br>
@@ -48,10 +48,3 @@ An initial exploration of the data will be done to see if we can find any patter
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
