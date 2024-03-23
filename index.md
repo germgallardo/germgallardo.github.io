@@ -11,13 +11,13 @@
 [![](https://img.shields.io/badge/Jupyter-Open%20Notebook-violet?logo=jupyter)](https://germgallardo.github.io/projects/end-to-end-heart-disease-classification.html)
 [![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/Heart-Disease)
 
-<p style="text-align:justify;">This is based on the <a href="https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/">Kaggle Heart Disease Dataset</a> in which there are several clinical parameters and we need to predict whether or not a patient has heart disease. For this we want to try to reach for an accuracy over 95% by trying different models.<br>  
-  
+<p style="text-align:justify;">This is based on the <a href="https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/">Kaggle Heart Disease Dataset</a> in which there are several clinical parameters and we need to predict whether or not a patient has heart disease. For this we want to try to reach for an accuracy over 95% by trying different models.
+<br><br>  
 An initial exploration of the data will be done to see if we can find any patterns. Also, a correlation matrix is created to see how related each variable is to the others.</p>
 
 <img src="/images/data_exploration.png?raw=true">
 
-<p style="text-align:justify;">Once we have an intuition of the dataset, we will try three different models `Logistic Regression`, `K-Nearest Neighbours Classifier` and `Random Forest Classifier` and check which one performs better. After knowing the results, we will do some hyperparameter tuning to check if the models can improve further. After evaluating all the models, we select the one that performs best and obtain some cross-validated classification metrics. Finally we study the Feature Importance to see which ones contribute more to the model.</p>
+<p style="text-align:justify;">Once we have an intuition of the dataset, we will try three different models <i>Logistic Regression</i>, <i>K-Nearest Neighbours Classifier</i> and <i>Random Forest Classifier</i> and check which one performs better. After knowing the results, we will do some hyperparameter tuning to check if the models can improve further. Then we evaluate each of them and select the one that performs best and obtain some cross-validated classification metrics. Finally we study the Feature Importance to see which ones contribute more to the model.</p>
 
 <img src="/images/model_analysis.png?raw=true">
 
