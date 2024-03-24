@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/Jupyter-Open%20Notebook-violet?logo=jupyter)](https://germgallardo.github.io/projects/end-to-end-heart-disease-classification.html)
 [![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/Heart-Disease)
 
-<p style="text-align:justify;">This is based on the <a href="https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/">Kaggle Heart Disease Dataset</a> in which there are several clinical parameters and we need to predict whether or not a patient has heart disease. For this we want to try to reach for an accuracy over 95% by trying different models.
+<p style="text-align:justify;">This project is based on the <a href="https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/">Kaggle Heart Disease Dataset</a> in which there are several clinical parameters and we need to predict whether or not a patient has heart disease. For this we want to try to reach for an accuracy over 95% by trying different models.
 <br><br>  
 An initial exploration of the data will be done to see if we can find any patterns. Also, a correlation matrix is created to see how related each variable is to the others.</p>
 
@@ -28,10 +28,16 @@ An initial exploration of the data will be done to see if we can find any patter
 <br>
 
 ---
-### 🚜 Predicting the Sale Price of Bulldozers 
+### 🚜 Predicting the Sale Price of Bulldozers using Python
+[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-violet?logo=jupyter)](https://germgallardo.github.io/projects/end-to-end-heart-disease-classification.html)
+[![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/Bulldozer-Price-Prediction)
+
+<p style="text-align:justify;">This project is based on the <a href="https://www.kaggle.com/c/bluebook-for-bulldozers/overview">Kaggle Competition for a Blue Book for Bulldozers</a> in which we have to predict the sale price of bulldozers given it's characteristics.
+<br><br>
+First we perform an EDA to understand important variables and then handling missing values
 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
 
 ---
 [Project 3 Title](http://example.com/)
