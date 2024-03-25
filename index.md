@@ -29,7 +29,7 @@ An initial exploration of the data will be done to see if we can find any patter
 
 ---
 ### 🚜 Predicting Bulldozers Sale Price Regression using Python
-[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-violet?logo=jupyter)](https://github.com/germgallardo/germgallardo.github.io/blob/master/projects/end-to-end-bulldozer-price-regression.html)
+[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-violet?logo=jupyter)](https://germgallardo.github.io/projects/end-to-end-bulldozer-price-regression.html)
 [![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/Bulldozer-Price-Prediction)
 
 <p style="text-align:justify;">This project is based on the <a href="https://www.kaggle.com/c/bluebook-for-bulldozers/overview">Kaggle Competition for a Blue Book for Bulldozers</a> in which we have to predict the sale price of bulldozers given it's characteristics.
@@ -38,7 +38,7 @@ First we perform an EDA to understand important variables, then we enrich our da
 
 My best model achieved in the validation set:
 * Root Mean Squared Logarithmic Error (RMSLE) of 0.25120.
-* Coefficient of Determination (R2) of 0.87156.
+* Coefficient of Determination (R^2^) of 0.87156.
 * Mean Absolute Error (MAE) of 6088.833.
 
 <p align="center">
