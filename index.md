@@ -38,7 +38,7 @@ First we perform an EDA to understand important variables, then we enrich our da
 
 My best model achieved in the validation set:
 * Root Mean Squared Logarithmic Error (RMSLE) of 0.25120.
-* Coefficient of Determination (R^2^) of 0.87156.
+* Coefficient of Determination (R<sup>2</sup>) of 0.87156.
 * Mean Absolute Error (MAE) of 6088.833.
 
 <p align="center">
@@ -53,7 +53,17 @@ My best model achieved in the validation set:
 
 ---
 
-- [Project 1 Title](http://example.com/)
+- ### 🤖 Large Language Model Application for Q&A
+[![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/LLM-Powered-QA-app)
+[![](https://img.shields.io/badge/OpenAI-turquoise?logo=OpenAI)]
+
+Building an App for
+
+
+- ### 🗝️ Password Checker
+[![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/Password-Checker)
+
+A Password Checker that scans if a given password has ever been hacked by using a password API.
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
