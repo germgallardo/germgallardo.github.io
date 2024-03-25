@@ -55,18 +55,24 @@ My best model achieved in the validation set:
 
 - ### 🤖 Large Language Model Application for Q&A
 [![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/LLM-Powered-QA-app)
-[![](https://img.shields.io/badge/OpenAI-turquoise?logo=OpenAI)]
+![](https://img.shields.io/badge/OpenAI-turquoise?logo=OpenAI)
+![](https://img.shields.io/badge/Pinecone-turquoise?logo=Pinecone)
+![](https://img.shields.io/badge/LangChain-turquoise?logo=LangChain)
+![](https://img.shields.io/badge/Streamlit-turquoise?logo=Streamlit)
 
-Building an App for
+Building an App that works with ChatGPT for answering questions on private documents that we submit.
 
 
 - ### 🗝️ Password Checker
 [![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/Password-Checker)
 
 A Password Checker that scans if a given password has ever been hacked by using a password API.
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+- ### 📰 Hacker News List
+[![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/Hacker-News-List)
+
+List of best rated stories from Hacker News website by grabbing and displaying the links using BeautifulSoup library.
+
+<br>
 
 ---
