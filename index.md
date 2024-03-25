@@ -28,24 +28,28 @@ An initial exploration of the data will be done to see if we can find any patter
 <br>
 
 ---
-### 🚜 Predicting the Sale Price of Bulldozers using Python
-[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-violet?logo=jupyter)](https://germgallardo.github.io/projects/end-to-end-heart-disease-classification.html)
+### 🚜 Predicting Bulldozers Sale Price Regression using Python
+[![](https://img.shields.io/badge/Jupyter-Open%20Notebook-violet?logo=jupyter)](https://github.com/germgallardo/germgallardo.github.io/blob/master/projects/end-to-end-bulldozer-price-regression.html)
 [![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/Bulldozer-Price-Prediction)
 
 <p style="text-align:justify;">This project is based on the <a href="https://www.kaggle.com/c/bluebook-for-bulldozers/overview">Kaggle Competition for a Blue Book for Bulldozers</a> in which we have to predict the sale price of bulldozers given it's characteristics.
 <br><br>
-First we perform an EDA to understand important variables and then handling missing values
+First we perform an EDA to understand important variables, then we enrich our dataset by doing feature engineering and finally we handled the missing values. Then by using <i>Random Forest Regressor</i> model and some hyperparameter tuning we predict the sale price for the bulldozers.
+  
+My best model achieved in the validation set:
+* Root Mean Squared Logarithmic Error (RMSLE) of 0.25120.
+* Coefficient of Determination (R2) of 0.87156.
+* Mean Absolute Error (MAE) of 6088.833.
 
+<p align="center">
+  <img width="500" height="250" src="/images/feature_importance.png?raw=true">
+</p>
 
 <br>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-## **✨ Interesting Projects**
+## **✨ Interesting Python Projects**
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
