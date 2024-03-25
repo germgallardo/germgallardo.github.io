@@ -59,19 +59,21 @@ My best model achieved in the validation set:
 ![](https://img.shields.io/badge/Pinecone-turquoise?logo=Pinecone)
 ![](https://img.shields.io/badge/LangChain-turquoise?logo=LangChain)
 ![](https://img.shields.io/badge/Streamlit-turquoise?logo=Streamlit)
-
+<p style="text-align:justify;">
 Building an App that works with ChatGPT for answering questions on private documents that we submit.
-
+</p>
 
 - ### 🗝️ Password Checker
 [![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/Password-Checker)
-
+<p style="text-align:justify;">
 A Password Checker that scans if a given password has ever been hacked by using a password API.
+</p>
 
 - ### 📰 Hacker News List
 [![](https://img.shields.io/badge/Github-View%20on%20Github-violet?logo=github)](https://github.com/germgallardo/Hacker-News-List)
-
+<p style="text-align:justify;">
 List of best rated stories from Hacker News website by grabbing and displaying the links using BeautifulSoup library.
+</p>
 
 <br>
 
