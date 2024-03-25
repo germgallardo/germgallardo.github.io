@@ -35,7 +35,7 @@ An initial exploration of the data will be done to see if we can find any patter
 <p style="text-align:justify;">This project is based on the <a href="https://www.kaggle.com/c/bluebook-for-bulldozers/overview">Kaggle Competition for a Blue Book for Bulldozers</a> in which we have to predict the sale price of bulldozers given it's characteristics.
 <br><br>
 First we perform an EDA to understand important variables, then we enrich our dataset by doing feature engineering and finally we handled the missing values. Then by using <i>Random Forest Regressor</i> model and some hyperparameter tuning we predict the sale price for the bulldozers.</p>
-<br>  
+
 My best model achieved in the validation set:
 * Root Mean Squared Logarithmic Error (RMSLE) of 0.25120.
 * Coefficient of Determination (R2) of 0.87156.
